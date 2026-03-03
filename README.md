@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Maria Eduarda Hamparsomian
 
-**`Desenvolvedora Junior com Interesse em Fullstack`**
+**`Desenvolvedora Junior com Interesse em análise e modelagem de dados`**
 
 Me chamo Maria Eduarda Hamparsomian, tenho 20 anos e sou natural de Jundiaí (SP). Atualmente, curso Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC (UFABC), com interesse em seguir para Ciência da Computação.
 
-Sou apaixonada por tecnologia e desenvolvimento de software, com experiência em projetos de iniciação científica, como o repositório rag_system_offline, além de 1 ano de experiência como estagiária desenvolvedora, com posterior efetivação como desenvolvedora júnior.
+Sou apaixonada por tecnologia e desenvolvimento de software, com experiência em projetos de iniciação científica, como o repositório rag_system_offline, além de 1 ano de experiência como estagiária desenvolvedora, com posterior efetivação como analista desenvolvedora júnior.
 
 <p align="left">
     <a href="mailto:mdudahampa@gmail.com">
@@ -36,11 +36,11 @@ Sou apaixonada por tecnologia e desenvolvimento de software, com experiência em
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
 <img 
     align="left" 
@@ -52,11 +52,11 @@ Sou apaixonada por tecnologia e desenvolvimento de software, com experiência em
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
