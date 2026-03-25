@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Junior com Interesse em análise e modelagem de dados`**
 
-Me chamo Maria Eduarda Hamparsomian, tenho 20 anos e sou natural de Jundiaí (SP). Atualmente, curso Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC (UFABC), com interesse em seguir para Ciência da Computação.
+Me chamo Maria Eduarda Hamparsomian, tenho 21 anos e sou natural de Jundiaí (SP). Atualmente, curso Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC (UFABC), com interesse em seguir para Ciência da Computação.
 
 Sou apaixonada por tecnologia e desenvolvimento de software, com experiência em projetos de iniciação científica, como o repositório rag_system_offline, além de 1 ano de experiência como estagiária desenvolvedora, com posterior efetivação como analista desenvolvedora júnior.
 
